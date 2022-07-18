@@ -1,4 +1,4 @@
-## Hi there, I'm Muhammad Ahsan [ahsansoftengineer](https://github.com/ahsansoftengineer/ahsansoftengineer/edit/main/README.md)👋 
+## Hi there, I'm [Muhammad Ahsan](https://github.com/ahsansoftengineer/)👋 
 
 ## I'm a Developer, and Teacher!!
 
