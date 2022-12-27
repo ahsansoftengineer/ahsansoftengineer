@@ -12,6 +12,17 @@
 | [![Muhammad Ahsan](https://img.shields.io/badge/MUHAMMAD-AHSAN-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=ahsansoftengineer&color=green) | ![Followers](https://img.shields.io/github/followers/ahsansoftengineer) | ![Stars](https://img.shields.io/github/stars/ahsansoftengineer?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
+### Bages
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahsansoftengineer&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&langs_count=5&theme=tokyonight)]()
+-->
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools:
 
@@ -31,18 +42,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" style="padding-right:10px;" />
 
-</br>
 
-### Bages
 
-</br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahsansoftengineer&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&langs_count=5&theme=tokyonight)]()
--->
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
