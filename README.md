@@ -32,6 +32,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" style="padding-right:10px;" />
 </br>
 ### Bages
+</br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dirambora&count_private=true&theme=tokyonight&showicons=true)]()
