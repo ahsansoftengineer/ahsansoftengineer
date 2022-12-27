@@ -30,9 +30,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" style="padding-right:10px;" />
+
 </br>
+
 ### Bages
+
 </br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dirambora&count_private=true&theme=tokyonight&showicons=true)]()
