@@ -9,8 +9,7 @@
 
 ### Ratings
 
-| [![Muhammad Ahsan](https://img.shields.io/badge/MUHAMMAD-AHSAN-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=ahsansoftengineer&color=green) | ![Followers](https://img.shields.io/github/followers/ahsansoftengineer) | ![Stars](https://img.shields.io/github/stars/ahsansoftengineer?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
+| [![Muhammad Ahsan](https://img.shields.io/badge/MUHAMMAD-AHSAN-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=ahsansoftengineer&color=green) | ![Followers](https://img.shields.io/github/followers/ahsansoftengineer) | ![Stars](https://img.shields.io/github/stars/ahsansoftengineer?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | --| --| --| --|
 
 ### Bages
 
@@ -21,8 +20,8 @@
 -->
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools:
 
