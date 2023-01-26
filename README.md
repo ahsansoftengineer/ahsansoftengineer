@@ -13,7 +13,7 @@
 --| --| --| --|
 
 ### Bages
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahsansoftengineer&count_private=true&theme=tokyonight&showicons=true)]()
@@ -24,7 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&theme=onedark&row=2&column=3)](https://github.com/ahsansoftengineer/github-profile-trophy)
 
 ### Languages and Tools:
 
