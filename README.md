@@ -24,6 +24,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
