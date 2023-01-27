@@ -1,6 +1,5 @@
 ## Hi there, I'm [Muhammad Ahsan](https://github.com/ahsansoftengineer/)👋 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-<i width="50px" class="devicon-adonisjs-original"></i>
  
           
 ## I'm a Developer !!
@@ -32,8 +31,8 @@
 
 ### Languages and Tools: [More Icons](https://devicon.dev/)
 
-<img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img width="50px" style="padding:10px; display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width="50px" style="padding:10px; display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
