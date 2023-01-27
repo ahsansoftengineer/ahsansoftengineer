@@ -77,7 +77,10 @@
   <img width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 </p>
-  
+
+#### How to Get [Acheivement Batch](https://github.com/Schweinepriester/github-profile-achievements)
+  <img width="15px" style="padding:10px;" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" />
+
 
 
 
