@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Gain Expreties in Dotnet Core
 - ⚡ Fun fact: I love to draw and play football
 
 ### Ratings
