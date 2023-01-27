@@ -79,7 +79,13 @@
 </p>
 
 #### How to Get [Acheivement Batch](https://github.com/Schweinepriester/github-profile-achievements)
-  <img width="20px" style="padding:10px;" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" />
+<p>
+  <img width="25px" style="padding:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" />
+  <img width="25px" style="padding:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" />
+  <img width="25px" style="padding:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
+  <img width="25px" style="padding:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" />
+  <img width="25px" style="padding:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
+</p>
 
 
 
