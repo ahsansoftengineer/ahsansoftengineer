@@ -14,15 +14,12 @@
 --| --| --| --|
 
 ### Contact
-| [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahsan-saifi-1511a6191/)
+| [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahsan-saifi-1511a6191/) | [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahsan-saifi-1511a6191/) | [![Linked In](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ahsan-saifi-1511a6191/) |
 --| --| --|
 
 ### Bages
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahsansoftengineer&margin-w=8&row=2&column=3&align=center)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahsansoftengineer&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansoftengineer&langs_count=5&theme=tokyonight)]()
--->
+
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=ahsansoftengineer&theme=light&hide_border=false)<br/>
