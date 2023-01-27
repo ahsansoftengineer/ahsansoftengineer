@@ -1,7 +1,7 @@
 ## Hi there, I'm [Muhammad Ahsan](https://github.com/ahsansoftengineer/)👋 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-
-<i class="devicon-adonisjs-original"></i>
+<i width="50px" class="devicon-adonisjs-original"></i>
+ 
           
 ## I'm a Developer !!
 
