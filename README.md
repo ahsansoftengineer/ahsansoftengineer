@@ -30,11 +30,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ahsansoftengineer&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Languages and Tools: [More Icons](https://devicon.dev/)
-
+<p>
 <img width="50px" style="padding:10px; display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="50px" style="padding:10px; display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+ </p>
 
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
