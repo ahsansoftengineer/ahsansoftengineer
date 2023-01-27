@@ -79,7 +79,7 @@
 </p>
 
 #### How to Get [Acheivement Batch](https://github.com/Schweinepriester/github-profile-achievements)
-  <img width="15px" style="padding:10px;" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" />
+  <img width="20px" style="padding:10px;" src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" />
 
 
 
